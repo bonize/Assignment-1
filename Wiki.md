@@ -16,7 +16,7 @@
 
 หลังจากที่เรา Unlock Jenkins แล้ว เราจะไปยังหน้า Customize Jenkins
 
-<img src="image_jenkins/Plugin.png" width="500"/>
+<img src="image_jenkins/Plugin.PNG" width="500"/>
 
 ให้เราเลือก Install Suggested Plugins จะทำให้เราได้ Plugin เกี่ยวกับเครื่องมือที่ใช้กันบ่อย ๆ เช่น Github
 
@@ -24,7 +24,7 @@
 
 เมื่อติดตั้ง Plugins เสร็จแล้ว Jenkins จะพาเราไปยังหน้า Create First Admin User
 
-<img src="image_jenkins/CreateUser.png" width="500"/>	
+<img src="image_jenkins/CreateUser.PNG" width="500"/>	
 
 ให้เราทำการ Create User ให้เรียบร้อย แล้ว Jenkins จะพาเราไปหน้า  Home
 
